@@ -1,6 +1,6 @@
 # Документация для Google Sheets API Script
 
-[Google sheet]([URL](https://docs.google.com/spreadsheets/d/19AtK-XAQSvLOpwNhvGxqYtrKGxrZCoch4mnBFm5Aqv4/edit#gid=1477734741))
+([Google sheet](https://docs.google.com/spreadsheets/d/19AtK-XAQSvLOpwNhvGxqYtrKGxrZCoch4mnBFm5Aqv4/edit#gid=1477734741))
 
 Данная документация описывает код и его использование для работы с Google Sheets API. Код представляет собой скрипт на языке Python для выполнения простой операции сложения и вычитания чисел, а также записи результатов в Google Sheets.
 
